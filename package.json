@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/balavec/nextjs-test.git",
+  "author": "Aleš Casar <ales.casar@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "styled-components": "^5.2.1",
+    "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "1.12.0"
+  }
+}
